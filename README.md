@@ -1,4 +1,4 @@
-#gm bot
+# gm bot
 
 gm bot adds a series of morning replies within the #gm channel of the Trav's World Discord server. 
 
