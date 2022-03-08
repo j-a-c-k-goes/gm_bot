@@ -1,5 +1,5 @@
 # ignore files releated to api keys
 .env
 
-# ignore graveyard files
-graveyard.txt
+# ignore graveyard modules
+graveyard
