@@ -6,5 +6,5 @@ def gm_bot_self():
     xyz = random.choice(outputs)
     return xyz
 if __name__ == '__main__':
-    print('--- gmBot to self ---'):
+    print('--- gmBot to self ---')
     gm_bot_self()

@@ -1,6 +1,6 @@
 from non_us_gm import *
 from emojis import *
-
+import random
 def global_gm(non_american_gm, general_emojis):
     x = random.choice(non_american_gm)
     y = random.choice(general_emojis) 
