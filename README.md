@@ -45,3 +45,5 @@ Open terminal, use `app.py`
 🔗 https://discordpy.readthedocs.io/en/latest/api.html#client
 
 🔗 https://morioh.com/p/c23c88dd2374
+
+🔗 https://schedule.readthedocs.io/en/latest/
