@@ -2,4 +2,10 @@
 .env
 
 # ignore graveyard modules
-graveyard
+graveyard/
+__pycache__
+discord.log
+gm_bot.log
+Logger.py
+Setup.py
+run_gm_bot.py

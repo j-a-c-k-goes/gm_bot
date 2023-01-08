@@ -1,5 +1,5 @@
 # --- module imports ---
-import schedule
+# import schedule
 import time
 import os
 
@@ -15,9 +15,9 @@ def gm_bot():
 # --- flow ---
 welcome()
 gm_bot = gm_bot()
-schedule.every().day.at("04:00").do(gm_bot)
+# schedule.every().day.at("04:00").do(gm_bot)
 
 # --- loop so always running ---
-while True:
-    schedule.run_pending()
-    time_sleep(1)
+#while True:
+    #schedule.run_pending()
+    #time_sleep(1)
